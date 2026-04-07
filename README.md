@@ -15,16 +15,7 @@ Dashboard com indicadores e próximas entregas
 🚀 Como rodar localmente
 Pré-requisitos: Node.js 22.5+ (usa o módulo nativo node:sqlite)
 
-Terminal 1 — Backend
-cd backend
-npm install
-npm start
-# API em http://localhost:3001
-Terminal 2 — Frontend
-cd frontend
-npm install
-npm start
-# App em http://localhost:3000
+
 🔐 Credenciais
 Perfil	E-mail	Senha
 Administrador	admin@odontovida.com	Admin@123
