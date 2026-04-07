@@ -1,0 +1,12 @@
+{
+  "name": "odontovida-sistema",
+  "version": "1.0.0",
+  "description": "Sistema Gerenciador de Tarefas - Clínica OdontoVida - PI III-B PUC Goiás",
+  "scripts": {
+    "install:all": "cd backend && npm install && cd ../frontend && npm install",
+    "backend": "cd backend && node server.js",
+    "frontend": "cd frontend && npm start",
+    "dev": "npm run backend & npm run frontend"
+  },
+  "author": "Vilmar Francisco Teodoro Filho"
+}
